@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🌱 I’m currently learning **software development and machine learning**
 
